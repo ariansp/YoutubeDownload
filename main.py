@@ -28,7 +28,7 @@ st.markdown(
         <h1 style="color: #ff69b4; font-family: 'Comic Sans MS', cursive;">
             🎀 Web Bundaku Sayang 🎀
         </h1>
-        <p style="color: #d96aa7;">Download video YouTube dengan penuh cinta 💌</p>
+        <p style="color: #d96aa7;">Download video YouTube / Tiktok dengan penuh cinta 💌</p>
     </div>
 
     <div class="langkah-box">
