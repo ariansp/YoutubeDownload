@@ -33,7 +33,7 @@ st.markdown(
 
     <div class="langkah-box">
         <b>💡 Cara download video, Bunda:</b><br><br>
-        1️⃣ Bunda <b>"Salin"</b> link dari YouTube Bunda 💖<br>
+        1️⃣ Bunda <b>"Salin"</b> link dari YouTube/Tiktok Bunda 💖<br>
         2️⃣ Bunda <b>"Tempel"</b> link-nya di kotak bawah ini ✨<br>
         3️⃣ Bunda tekan <b>Enter</b> atau klik pojok kanan bawah 📥<br>
         4️⃣ Bunda <i>tunggu sebentar ya cantik...</i> 🧸<br>
@@ -79,4 +79,4 @@ if url:
                 )
 
         except Exception as e:
-            st.error(f"❌ Gagal mendownload videonya bund 😢\n\n**Error:** {e}")
+            st.error(f"❌ Gagal mendownload videonya bund, coba bunda Screenshot terus kirim Mas! 😢\n\n**Error:** {e}")
