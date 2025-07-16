@@ -10,7 +10,7 @@ st.set_page_config(
     layout="centered"
 )
 
-# 💖 Header
+# 💖 Header + Langkah
 st.markdown(
     """
     <style>
@@ -38,13 +38,14 @@ st.markdown(
         3️⃣ Bunda tekan <b>Enter</b> atau klik pojok kanan bawah 📥<br>
         4️⃣ Bunda <i>tunggu sebentar ya cantik...</i> 🧸<br>
         5️⃣ Kalau sudah selesai & muncul tulisan <b>"Klik ini, Bund!"</b>, tinggal klik itu aja yaa 💿💌<br>
+        6️⃣ Udah selesai ya Bund, <b style="color:#ff69b4;">Love you 💕</b><br>
     </div>
     """,
     unsafe_allow_html=True
 )
 
 # 🌷 URL input
-url = st.text_input("🌸 Masukkan URL video YouTube Bunda di sini:")
+url = st.text_input("🌸 Tempel disini ya Bund:")
 
 # 📁 Folder for downloads
 download_dir = "downloads"
