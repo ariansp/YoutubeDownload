@@ -23,14 +23,14 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-url = st.text_input("🌸 Masukkan URL video YouTube kamu di sini:")
+url = st.text_input("🌸 Masukkan URL video YouTube bunda di sini:")
 
 # Folder for downloads
 download_dir = "downloads"
 os.makedirs(download_dir, exist_ok=True)
 
 if url:
-    with st.spinner("⏳ Video sedang didownload... tunggu sebentar ya sayang 💕"):
+    with st.spinner("⏳ Video sedang didownload... tunggu sebentar ya Bund.. 💕"):
         try:
             video_id = str(uuid.uuid4())
             output_path = os.path.join(download_dir, f"{video_id}.%(ext)s")
@@ -46,10 +46,10 @@ if url:
                 info = ydl.extract_info(url, download=True)
                 filename = ydl.prepare_filename(info)
 
-            st.success("✅ Video berhasil didownload! Klik tombol di bawah ini yaa~ 🧸💿")
+            st.success("✅ Video Bunda berhasil didownload! Klik tombol di bawah ini yaa~ 🧸💿")
             with open(filename, "rb") as file:
                 st.download_button(
-                    label="💌 Simpan videonya, bund!",
+                    label="💌 Klik ini, bund!",
                     data=file,
                     file_name=os.path.basename(filename),
                     mime="video/mp4"
