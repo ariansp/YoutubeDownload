@@ -28,16 +28,16 @@ st.markdown(
         <h1 style="color: #ff69b4; font-family: 'Comic Sans MS', cursive;">
             🎀 Web Bundaku Sayang 🎀
         </h1>
-        <p style="color: #d96aa7;">Download video YouTube / Tiktok dengan penuh cinta 💌</p>
+        <p style="color: #d96aa7;">Download video dari berbagai platform dengan penuh cinta 💌</p>
     </div>
 
     <div class="langkah-box">
         <b>💡 Cara download video, Bunda:</b><br><br>
-        1️⃣ Bunda <b>"Salin"</b> link dari YouTube/Tiktok Bunda 💖<br>
-        2️⃣ Bunda <b>"Tempel"</b> link-nya di kotak bawah ini ✨<br>
-        3️⃣ Bunda tekan <b>Enter</b> atau klik pojok kanan bawah 📥<br>
-        4️⃣ Bunda <i>tunggu sebentar ya cantik...</i> 🧸<br>
-        5️⃣ Kalau sudah selesai & muncul tulisan <b>"Klik ini, Bund!"</b>, tinggal klik itu aja yaa 💿💌<br>
+        1️⃣ Bunda **"Salin"** link dari YouTube, Tiktok, Facebook, Twitter, Instagram, Vimeo, atau situs video lainnya ya Bund 💖<br>
+        2️⃣ Bunda **"Tempel"** link-nya di kotak bawah ini ✨<br>
+        3️⃣ Bunda tekan **Enter** atau klik pojok kanan bawah 📥<br>
+        4️⃣ Bunda *tunggu sebentar ya cantik...* 🧸<br>
+        5️⃣ Kalau sudah selesai & muncul tulisan **"Klik ini, Bund!"**, tinggal klik itu aja yaa 💿💌<br>
         6️⃣ Udah selesai ya Bund, <b style="color:#ff69b4;">Love you 💕</b><br>
     </div>
     """,
